@@ -1,0 +1,6 @@
+[submodule "WEATHER-APP-FRONTEND"]
+	path = WEATHER-APP-FRONTEND
+	url = https://github.com/jhanvelez/WEATHER-APP-FRONTEND
+[submodule "WEATHER-APP-BACKEND"]
+	path = WEATHER-APP-BACKEND
+	url = https://github.com/jhanvelez/WEATHER-APP-BACKEND
