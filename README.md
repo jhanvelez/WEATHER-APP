@@ -1,4 +1,4 @@
-# Nuevo Proyecto
+# WEATHER APP
 
 Este proyecto incluye dos submódulos: un frontend en React y un backend en Laravel. A continuación se proporcionan instrucciones sobre cómo consumir los endpoints desde el frontend y cómo probar el proyecto en un entorno local.
 
